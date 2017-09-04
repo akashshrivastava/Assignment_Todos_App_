@@ -1,0 +1,45 @@
+fieldset.header {
+    background-color: lightgoldenrodyellow;
+}
+fieldset
+{
+    width: 500px;
+    margin:auto;
+}
+
+.deleteLabelClass{
+    color: red;
+    float: right;
+    margin-right : 10%;
+
+}
+
+.visibilty{
+    float: right ;
+    color: blue;
+    text-decoration: underline;
+    margin-right: 10%;
+}
+.breadthVertical{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.breadthHorizontal{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+div.todoStatusACTIVE{
+    color : black;
+    margin-bottom: 5px;
+}
+
+div.todoStatusCOMPLETE{
+    color : green;
+    text-decoration: line-through;
+}
+div.todoStatusDELETED{
+    color : red;
+    text-decoration: line-through;
+}
